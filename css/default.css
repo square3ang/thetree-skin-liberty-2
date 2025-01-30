@@ -352,16 +352,16 @@ del, s, strike {
 .Liberty .content-wrapper .liberty-sidebar .liberty-right-fixed .live-recent .live-recent-header .nav .nav-item {
     width: 15rem;
     border: 1px solid #e1e8ed;
-    border-top-left-radius: 0.35rem;
-    border-top-right-radius: 0.35rem;
-    background-color: #f5f8fa;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    /*background-color: #f5f8fa;*/
 }
 
 .Liberty .content-wrapper .liberty-sidebar .liberty-right-fixed .live-recent .live-recent-header .nav .nav-item .nav-link {
     border: 0;
     border-radius: 0;
-    border-top-left-radius: 0.35rem;
-    border-top-right-radius: 0.35rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
     text-align: center;
     padding-top: 0.6rem;
     padding-bottom: 0.6rem;
@@ -429,8 +429,8 @@ del, s, strike {
     background-color: #f5f8fa;
     border: 1px solid #e1e8ed;
     border-top: 0;
-    border-bottom-left-radius: 0.35rem;
-    border-bottom-right-radius: 0.35rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
     text-align: right;
     padding: 0.4rem 0.6rem;
 }
