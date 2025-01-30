@@ -628,7 +628,8 @@ del, s, strike {
 .dropdown-menu {
     font-size: 0.95rem;
     box-shadow: 0 6px 12px rgba(0,0,0,.175);
-    border-color: #e1e8ed;
+    /*border-color: #e1e8ed;*/
+    border-radius: 2rem;
 }
 
 .dropdown-menu .dropdown-item:hover {
@@ -638,7 +639,9 @@ del, s, strike {
 }
 
 .dropdown-divider {
-    border-color: #e1e8ed;
+    /*border-color: #e1e8ed;*/
+    border-color: #555555;
+    background-color: #555555;
 }
 
 .form-control {
