@@ -45,12 +45,12 @@ body.theseed-dark-mode {
 }
 
 .theseed-dark-mode .btn.btn-secondary.tools-btn {
-	background: black;
+	background: #222222;
 	color: #ddd;
 }
 
 .theseed-dark-mode button.btn.btn-secondary.tools-btn.dropdown-toggle {
-	background: black;
+	background: #222222;
 	color: #ddd;
 }
 
@@ -84,7 +84,7 @@ body.theseed-dark-mode {
 .theseed-dark-mode .Liberty .content-wrapper .liberty-sidebar .liberty-right-fixed .live-recent .live-recent-header .nav .nav-item .nav-link:active,
 .theseed-dark-mode .Liberty .content-wrapper .liberty-sidebar .liberty-right-fixed .live-recent .live-recent-header .nav .nav-item .nav-link:focus,
 .theseed-dark-mode .Liberty .content-wrapper .liberty-sidebar .liberty-right-fixed .live-recent .live-recent-header .nav .nav-item .nav-link:hover {
-	background: black;
+	background: #222222;
 	color: #ddd;
 }
 
