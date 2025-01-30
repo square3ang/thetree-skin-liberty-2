@@ -642,9 +642,9 @@ del, s, strike {
     transition: 0.3s;
 }
 
-.btn-secondary {
+/*.btn-secondary {
     border-color: #555555;
-}
+}*/
 
 .dropdown-item {
     padding: 5px 20px;
@@ -653,8 +653,8 @@ del, s, strike {
 
 .dropdown-divider {
     /*border-color: #e1e8ed;*/
-    border-color: #555555;
-    background-color: #555555;
+    /*border-color: #555555;
+    background-color: #555555;*/
 }
 
 .form-control {
