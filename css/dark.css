@@ -162,6 +162,10 @@ body.theseed-dark-mode {
     background-color: #555555;
 }
 
+.theseed-dark-mode .dropdown-menu {
+    border-color: #555555;
+}
+
 .theseed-dark-mode .Liberty .nav-wrapper .navbar .form-inline .form-control {
     border-color: #555555;
 }
