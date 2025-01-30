@@ -629,13 +629,20 @@ del, s, strike {
     font-size: 0.95rem;
     box-shadow: 0 6px 12px rgba(0,0,0,.175);
     /*border-color: #e1e8ed;*/
+    border-color: #555555;
     border-radius: 2rem;
+    padding: 1rem;
 }
 
 .dropdown-menu .dropdown-item:hover {
     background-color: var(--liberty-brand-color, #4188f1);
     color: #fff;
     transition: 0.3s;
+}
+
+.dropdown-item {
+    padding: 5px 20px;
+    border-radius: 1rem;
 }
 
 .dropdown-divider {
