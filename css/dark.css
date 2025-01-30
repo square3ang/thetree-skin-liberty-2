@@ -10,7 +10,7 @@ body.theseed-dark-mode {
 }
 
 .theseed-dark-mode .Liberty .content-wrapper .liberty-content .liberty-content-header {
-	background-color: #222222;
+	background-color: #111111;
 }
 
 .theseed-dark-mode .Liberty .content-wrapper .liberty-content .liberty-content-header .title > h1 {
@@ -18,12 +18,12 @@ body.theseed-dark-mode {
 }
 
 .theseed-dark-mode .Liberty .content-wrapper .liberty-content .liberty-content-main {
-	background-color: #222222;
+	background-color: #111111;
 	color: #ddd;
 }
 
 .theseed-dark-mode .Liberty .content-wrapper .liberty-footer {
-	background-color: #222222;
+	background-color: #111111;
 	color: #ddd;
 }
 
@@ -34,14 +34,14 @@ body.theseed-dark-mode {
 .theseed-dark-mode .Liberty .content-wrapper .liberty-content .liberty-content-header,
 .theseed-dark-mode .Liberty .content-wrapper .liberty-content .liberty-content-main,
 .theseed-dark-mode .Liberty .content-wrapper .liberty-footer {
-	border-color: #777;
+	border-color: #555555;
 }
 
 .theseed-dark-mode .Liberty .content-wrapper .liberty-sidebar .liberty-right-fixed .live-recent .live-recent-header .nav .nav-item,
 .theseed-dark-mode .Liberty .content-wrapper .liberty-sidebar .liberty-right-fixed .live-recent .live-recent-content .live-recent-list li,
 .theseed-dark-mode .Liberty .content-wrapper .liberty-sidebar .liberty-right-fixed .live-recent .live-recent-footer,
 .theseed-dark-mode .Liberty .content-wrapper .liberty-sidebar .liberty-right-fixed .live-recent .live-recent-content {
-	border-color: #777;
+	border-color: #555555;
 }
 
 .theseed-dark-mode .btn.btn-secondary.tools-btn {
