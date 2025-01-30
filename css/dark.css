@@ -152,11 +152,11 @@ body.theseed-dark-mode {
 	color: #ddd;
 }
 
-.btn-secondary {
+.theseed-dark-mode .btn-secondary {
     border-color: #555555;
 }
 
-.dropdown-divider {
+.theseed-dark-mode .dropdown-divider {
     /*border-color: #e1e8ed;*/
     border-color: #555555;
     background-color: #555555;
